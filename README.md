@@ -24,6 +24,6 @@
   <a href = "mailto:carlos_rj18@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198334855277/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Carllos166/Carllos166/blob/output/github-contribution-grid-snake.svg)
  
 </div>
