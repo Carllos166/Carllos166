@@ -1,7 +1,6 @@
 ## Olá!!
 
-- |👨‍💻| Hoje estou trabalhando com beck-end.
-- |🐍| Estudando Python.
+- |👨‍💻| Estudando Front-End.
 - |📚| Cursando Engenharia Da Computação.
 
  <div>
