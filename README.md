@@ -3,6 +3,8 @@
 - |👨‍💻| Estudando Front-End.
 - |📚| Cursando Engenharia Da Computação.
 
+<iframe src="https://giphy.com/embed/citBl9yPwnUOs" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs">via GIPHY</a></p>
+
  <div>
   <a href="https://github.com/Carllos166">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carllos166&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
