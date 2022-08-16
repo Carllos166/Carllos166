@@ -3,7 +3,7 @@
 - |👨‍💻| Estudando Front-End.
 - |📚| Cursando Engenharia Da Computação.
 
-<img src="https://giphy.com/embed/citBl9yPwnUOs" width="300px">
+<img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.mp4"  width="300px">
 
  <div>
   <a href="https://github.com/Carllos166">
