@@ -1,4 +1,4 @@
-# Olá!!
+# Me chamo Carlos Henrique, curso Engenharia da Computação e trabalho com desenvolvimento front-end. Estou focando meus estudos em javascript, porém já realizei alguns projetos com php, python e C++.
 
 - |👨‍💻| Estudando Front-End.
 - |📚| Cursando Engenharia Da Computação.
