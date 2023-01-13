@@ -5,12 +5,6 @@
 - |📚| Cursando Engenharia Da Computação.
 
 <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="300px">
-
- <div>
-  <a href="https://github.com/Carllos166">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carllos166&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carllos166&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
   ![](https://komarev.com/ghpvc/?username=Carllos166&color=blueviolet&for-the-badge)
   
