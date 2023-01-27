@@ -22,8 +22,5 @@
  	<a href="https://www.twitch.tv/Carllos166" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
   <a href = "mailto:carlos_rj18@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   	<a href="https://www.linkedin.com/in/carlos-henrique-gomes-da-silva-ferreira-228671181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
- 
-  ![Snake animation](https://github.com/Carllos166/Carllos166/blob/output/github-contribution-grid-snake.svg)
  
 </div>
