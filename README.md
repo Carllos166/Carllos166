@@ -12,7 +12,7 @@
   <img align="center" alto="Carlos-Javascript" height="35" width="105" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alto="Carlos-Javascript" height="35" width="105" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </div>
-<div> 
+<div style="margin-top: 5px"> 
   <a href = "mailto:carlos_rj18@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   	<a href="https://www.linkedin.com/in/carlos-henrique-gomes-da-silva-ferreira-228671181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
