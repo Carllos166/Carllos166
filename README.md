@@ -8,3 +8,9 @@
   <img align="center" alto="Carlos-Javascript" height="35" width="105" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alto="Carlos-Javascript" height="35" width="105" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </div>
+
+<div align="center">
+  <a href="https://github.com/jotadagostin">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotadagostin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadagostin&layout=compact&langs_count=7&theme=dark"/>
+</div>
