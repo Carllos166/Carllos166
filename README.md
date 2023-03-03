@@ -11,6 +11,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/carllos166">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotadagostin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadagostin&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carllos166&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carllos166&layout=compact&langs_count=7&theme=dark"/>
 </div>
