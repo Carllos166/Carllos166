@@ -1,4 +1,4 @@
-<div style="display: flex">
+<div style="display: flex" class="teste">
     <div>
       <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="300px" alt="Fun animated image">
     </div>
